@@ -1,4 +1,4 @@
-# bamboo-builds-universal-adapter
+# ua-bamboo
  This adapter can push data by using webhook configuration from the bamboo application.
 
  About:
